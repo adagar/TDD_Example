@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberalLibrary", "Rom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberLibrary.Tests", "RomanNumberLibrary.Tests\RomanNumberLibrary.Tests.csproj", "{10FF54ED-3D51-451F-9908-A2D8AD9B6916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Calculator", "String_Calculator\String_Calculator.csproj", "{9AD5079D-AE01-41C8-85F3-871FE38E8E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Calculator.Tests", "String_Calculator.Tests\String_Calculator.Tests.csproj", "{5D256DA2-A511-4B1F-BD8A-CB98A51A6819}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{10FF54ED-3D51-451F-9908-A2D8AD9B6916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10FF54ED-3D51-451F-9908-A2D8AD9B6916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10FF54ED-3D51-451F-9908-A2D8AD9B6916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD5079D-AE01-41C8-85F3-871FE38E8E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD5079D-AE01-41C8-85F3-871FE38E8E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD5079D-AE01-41C8-85F3-871FE38E8E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD5079D-AE01-41C8-85F3-871FE38E8E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D256DA2-A511-4B1F-BD8A-CB98A51A6819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D256DA2-A511-4B1F-BD8A-CB98A51A6819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D256DA2-A511-4B1F-BD8A-CB98A51A6819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D256DA2-A511-4B1F-BD8A-CB98A51A6819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

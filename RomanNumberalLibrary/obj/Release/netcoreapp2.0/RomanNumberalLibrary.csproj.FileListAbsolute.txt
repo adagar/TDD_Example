@@ -1,0 +1,15 @@
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\RomanNumberalLibrary.deps.json
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\RomanNumberalLibrary.runtimeconfig.json
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\RomanNumberalLibrary.runtimeconfig.dev.json
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\RomanNumberalLibrary.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\bin\Release\netcoreapp2.0\RomanNumberalLibrary.pdb
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.AssemblyInfo.cs
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.pdb
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Release\netcoreapp2.0\RomanNumberalLibrary.csprojAssemblyReference.cache

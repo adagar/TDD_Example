@@ -12,3 +12,4 @@ C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Debug\ne
 C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Debug\netcoreapp2.0\RomanNumberalLibrary.AssemblyInfo.cs
 C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Debug\netcoreapp2.0\RomanNumberalLibrary.dll
 C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Debug\netcoreapp2.0\RomanNumberalLibrary.pdb
+C:\Users\A Nick Garza\source\repos\TDD_Example\RomanNumberalLibrary\obj\Debug\netcoreapp2.0\RomanNumberalLibrary.csprojAssemblyReference.cache

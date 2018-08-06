@@ -11,7 +11,12 @@ namespace RomanNumberalLibrary
             
             while (number > 0)
             {
-                if (number >= 50)
+                if(number >= 100)
+                {
+                    romanString += "C";
+                    number -= 100;
+                }
+                else if (number >= 50)
                 {
                     romanString += "L";
                     number -= 50;
