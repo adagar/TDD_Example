@@ -1,0 +1,8 @@
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\bin\Release\netcoreapp2.0\FizzBuzz.deps.json
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\bin\Release\netcoreapp2.0\FizzBuzz.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\bin\Release\netcoreapp2.0\FizzBuzz.pdb
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\obj\Release\netcoreapp2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\obj\Release\netcoreapp2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\obj\Release\netcoreapp2.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\obj\Release\netcoreapp2.0\FizzBuzz.dll
+C:\Users\A Nick Garza\source\repos\TDD_Example\FizzBuzz\obj\Release\netcoreapp2.0\FizzBuzz.pdb
